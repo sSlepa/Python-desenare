@@ -19,7 +19,7 @@ This Python script uses the `turtle` graphics library to draw uppercase English 
 2. Run the script using Python:
 
    ```bash
-   python turtle_drawer.py
+   python main.py
    ```
 
 3. Enter a string containing uppercase English letters when prompted.
